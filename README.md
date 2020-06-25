@@ -1,2 +1,2 @@
-# CIS-18B
-All projects and homework for CIS 18B
+# REACT Learning Process
+All projects from the REACT learning course. Each folder has a different section.
